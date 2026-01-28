@@ -1,0 +1,11 @@
+a = input("Enter the value of a: ")
+print(a)
+print(type(a))
+b = input("Enter the value of b: ")
+print(b)
+print(type(b))
+print(a + b)
+
+num1 = int(input("Enter the value of num1: "))
+print(num1)
+print(type(num1))
